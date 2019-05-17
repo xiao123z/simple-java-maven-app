@@ -6,8 +6,7 @@ steps {
 bat 'd:'
 bat '
 cd
- D:\17Èí¼ş3\jenkins\.jenkins\workspace/simple-java-
-maven
+D:\17Èí¼ş3\jenkins\.jenkins\workspace\simple-java-maven-app
 -
 app
 @script'
